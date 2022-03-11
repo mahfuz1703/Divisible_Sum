@@ -1,1 +1,1 @@
-# Divisible_Sum
+# Divisible_Sum By C Programming Language
